@@ -1,6 +1,6 @@
 This is dataset contains:
-- SIBI Vocal Alphabets, has 5 class: A, I, U, E, O
-- BISINDO Vocal Alphabets, has 5 class: A, I, U, E, O
-- SIBI Basic Word, has 10 class: saya, kamu, dia, pramuka, meja, bangku, sakit, bel, tugas, baik
+- SIBI Vocal Alphabets, has 5 classes: A, I, U, E, O
+- BISINDO Vocal Alphabets, has 5 classes: A, I, U, E, O
+- SIBI Basic Word, has 10 classes: saya, kamu, dia, pramuka, meja, bangku, sakit, bel, tugas, baik
 
 The number for each datasets are still in progress
