@@ -1,0 +1,25 @@
+item {
+  id: 1
+  name: 'A'
+}
+
+item {
+  id: 2
+  name: 'I'
+}
+
+item {
+  id: 3
+  name: 'U'
+}
+
+item {
+  id: 4
+  name: 'E'
+}
+
+item {
+  id: 5
+  name: 'O'
+}
+
