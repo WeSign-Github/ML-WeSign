@@ -1,6 +1,6 @@
 # ML-WeSign
 
-This repository contains four machine learning models designed for sign language detection. These models are responsible for identifying and categorizing the hand gestures made by the user. The first model is dedicated to detecting vocal characters by bisindo, while the second model focuses on identifying the top five words in Indonesian sign language. The third model combines vocal detection with identifying the top three words in Indonesian sign language.
+This repository contains four machine learning models designed for sign language detection. These models are responsible for identifying and categorizing the hand gestures made by the user.
 
 The dataset contains 20 classes:
 - Vocal BISINDO: A, I, U, E, O
