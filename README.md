@@ -12,6 +12,6 @@ The dataset contains 20 classes:
 About models:
 - Our models using pretrained model SSD-MobileNet V2 FPNLite 320 with Tensorflow Object Detection API https://tfhub.dev/tensorflow/ssd_mobilenet_v2/fpnlite_320x320/1
 - For Deployment will be used TFLite format
-- Using mAP (mean Average Score) to measure model accuracy 
+- Using mAP (mean Average Score) to measure model accuracy https://github.com/Cartucho/mAP 
 
-We improve to gather sibingi vocal and word in one file training, then it cause we have 4 folders in our repository. 
+We upgraded to collect vocal and word sibi in one training file, so we have 4 folders in our repository.
